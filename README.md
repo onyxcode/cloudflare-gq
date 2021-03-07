@@ -1,2 +1,2 @@
 # cloudflare-gq
-Source for Cloudflare.pq website.
+Source for Cloudflare.gq website.
